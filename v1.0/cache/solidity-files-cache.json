@@ -1,0 +1,43 @@
+{
+  "_format": "hh-sol-cache-2",
+  "files": {
+    "/Users/larebkhan/Desktop/crypto/hardhat-tutorial/contracts/BasicDutchAuction.sol": {
+      "lastModificationDate": 1675389364915,
+      "contentHash": "81614c960009e7c6e7f7bf156dc59fc7",
+      "sourceName": "contracts/BasicDutchAuction.sol",
+      "solcConfig": {
+        "version": "0.8.17",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          },
+          "metadata": {
+            "useLiteralContent": false
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.0"
+      ],
+      "artifacts": [
+        "BasicDutchAuction"
+      ]
+    }
+  }
+}
