@@ -1,0 +1,67 @@
+.infoContract {
+    text-align: left;
+    padding: 20px;
+    color: black;
+    border: 1px solid #ccc;
+    margin: 5px auto;
+    background-color: beige;
+    
+    
+    
+  }
+  
+  .infoContract h1 {
+    text-align: center !important;
+    font-size: 24px;
+    margin-bottom: 20px;
+    background-color: lightcoral;
+    padding: 20px;
+    color: black;
+  }
+  
+  .InfoButton {
+    background-color: blue;
+    color: #fff;
+    padding: 10px 20px;
+    border-radius: 5px;
+    border: none;
+    font-size: 20px;
+    font-weight: bold;
+    cursor: pointer;
+    margin-bottom: 20px;
+    width: 200px;
+  }
+  
+  .InfoButton:hover {
+    background-color: darkblue;
+  }
+  
+  .infoContract h2 {
+    font-size: 25px;
+    margin-bottom: 10px;
+  }
+  
+  .infoContract label {
+    display: block;
+    margin-bottom: 10px;
+    font-size: 16px;
+    font-weight: 500;
+  }
+  
+  .infoContract input[type="text"] {
+    padding: 5px;
+    border-radius: 3px;
+    border: 2px solid black;
+    font-size: 16px;
+    margin-left: 100px;
+    width: 400px
+  }
+  
+  .small-image {
+    width: 350px !important; /* Adjust this value to make the image smaller or larger */
+    display: block; /* This will make the image a block element and allow us to set the margin */
+    margin-right: 10px;/* This will add space to the right of the image */
+    float: right; /* This will left-align the image */
+    margin-left: 100px;
+  }
+  
