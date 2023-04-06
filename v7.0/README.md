@@ -11,3 +11,6 @@ REPORT_GAS=true npx hardhat test
 npx hardhat node
 npx hardhat run scripts/deploy.ts
 ```
+
+The ipns url:
+ipns://k51qzi5uqu5dk9a3bce7fajdmcz9sxojjkv7ssna0x0yxisi886vyfjo2av06v
